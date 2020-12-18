@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>img</folder>
+	<filename>YVF8YS.jpg</filename>
+	<path>D:\JakBikeHub\BIKE_HUB (Github)\Dockless\img\img\YVF8YS.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>313</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>142</ymin>
+			<xmax>261</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

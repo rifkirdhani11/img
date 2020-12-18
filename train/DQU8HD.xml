@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>img</folder>
+	<filename>DQU8HD.jpg</filename>
+	<path>D:\JakBikeHub\BIKE_HUB (Github)\Dockless\img\img\DQU8HD.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>313</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>156</ymin>
+			<xmax>556</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>
